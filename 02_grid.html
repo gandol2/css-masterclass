@@ -8,30 +8,22 @@
     <style>
       .father {
         display: grid;
-        grid-auto-rows: 400px;
+        grid-auto-rows: 200px;
         grid-gap: 5px;
-        grid-template-areas:
-          "header header header"
-          "content content sidebar"
-          "content content sidebar"
-          "footer footer footer";
-      }
-      .first {
-        grid-area: header;
-        background-color: #f5cd79;
+        grid-template-columns: repeat(3, 1fr) 3fr;
       }
 
+      .first {
+        background-color: #ff6b6b;
+      }
       .second {
-        grid-area: sidebar;
-        background-color: #778beb;
+        background-color: #ff9f43;
       }
       .third {
-        grid-area: footer;
-        background-color: #596275;
+        background-color: #1dd1a1;
       }
       .fourth {
-        grid-area: content;
-        background-color: #786fa6;
+        background-color: #0abde3;
       }
     </style>
   </head>

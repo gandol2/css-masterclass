@@ -14,7 +14,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 - [x] CSS Grid Basics ( Row, columns and gaps)
 - [x] Auto columns, auto rows
 - [x] Template Areas
-- [ ] fr unit, repeat
+- [x] *fr* unit, *repeat*
 - [ ] minmax, max-content, min-content
 - [ ] auto-fill, auto-fit
 - [ ] Justify Content, Align Content and Place Content
@@ -58,3 +58,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 
 <img src="https://i.pinimg.com/564x/a4/0d/ba/a40dba0269d7de0120496ec830d6b25a.jpg" width="300px" />
 <img src="https://cdn.dribbble.com/users/102267/screenshots/4275407/afisha_by_radiusss.jpg" width="300px" />
+
+
+### 참고 사이트
+ - [색상코드](https://flatuicolors.com/)
