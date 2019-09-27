@@ -15,8 +15,8 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 - [x] Auto columns, auto rows
 - [x] Template Areas
 - [x] *fr* unit, *rex] minmax, max-content, min-content
-- [ ] auto-fill, auto-fit
-- [ ] Justify Content, Align Content and Place Content
+- [x] auto-fill, auto-fit
+- [x] Justify Content, Align Content and Place Content
 - [ ] Justify Items, Align Items and Place Items
 - [ ] Grid Column, Column Start and End
 - [ ] Line Naming
