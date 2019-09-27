@@ -1,0 +1,19 @@
+{
+  "name": "css-masterclass",
+  "version": "1.0.0",
+  "description": "CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandol2/css-masterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gandol2/css-masterclass/issues"
+  },
+  "homepage": "https://github.com/gandol2/css-masterclass#readme",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}

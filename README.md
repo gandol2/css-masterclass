@@ -61,3 +61,6 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 
 ### 참고 사이트
  - [색상코드](https://flatuicolors.com/)
+ - [CSS 연습](https://codepip.com/)
+ - [CSS 연습(Grid))](https://cssgridgarden.com/#ko)
+ - [PARCEL](https://parceljs.org/)
