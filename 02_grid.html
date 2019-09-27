@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CSS : Grid</title>
+    <style>
+      .father {
+        display: grid;
+        grid-auto-rows: 400px;
+        grid-gap: 5px;
+        grid-template-areas:
+          "header header header"
+          "content content sidebar"
+          "content content sidebar"
+          "footer footer footer";
+      }
+      .first {
+        grid-area: header;
+        background-color: #f5cd79;
+      }
+
+      .second {
+        grid-area: sidebar;
+        background-color: #778beb;
+      }
+      .third {
+        grid-area: footer;
+        background-color: #596275;
+      }
+      .fourth {
+        grid-area: content;
+        background-color: #786fa6;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="father">
+      <div class="first">1</div>
+      <div class="second">2</div>
+      <div class="third">3</div>
+      <div class="fourth">4</div>
+    </div>
+  </body>
+</html>
