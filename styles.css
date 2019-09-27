@@ -1,3 +1,43 @@
-body {
-  background-color: red;
+/*
+
+// matches selector()
+li:matches(:nth-child(even), .target) {
+  background-color: blue;
+}
+
+// matches not()
+li:not(.target) {
+  background-color: blue;
+}
+*/
+
+/*
+// 변수 
+:root {
+  --awesomeColor: 1px solid red;
+}
+li:first-child {
+  border: var(--awesomeColor);
+}
+
+// Custom Selector 
+@custom-selector :--headers h1, h2, h3, h4, h5, h6;
+:--headers {
+  color: #44bd32;
+}
+
+
+(Not Working)Color Mod
+h1 {
+  color: color-mod(#f1c40f alpha(100%));
+}
+*/
+
+main {
+  background-color: blue;
+
+  & li {
+    background-color: red;
+    width: 40px;
+  }
 }
