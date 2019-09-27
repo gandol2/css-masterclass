@@ -7,7 +7,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 - [x] Main Axis and Cross Axis
 - [x] Flex Direction
 - [x] Flex Wrap
-- [ ] Align Self
+- [x] Align Self
 
 ### CSS Grid
 
