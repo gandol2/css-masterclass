@@ -1,6 +1,5 @@
-# CSS Masterclass
-
-CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
+# css-masterclass
+CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 
 ### CSS Flex
 
