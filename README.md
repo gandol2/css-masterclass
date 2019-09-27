@@ -14,8 +14,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 - [x] CSS Grid Basics ( Row, columns and gaps)
 - [x] Auto columns, auto rows
 - [x] Template Areas
-- [x] *fr* unit, *repeat*
-- [ ] minmax, max-content, min-content
+- [x] *fr* unit, *rex] minmax, max-content, min-content
 - [ ] auto-fill, auto-fit
 - [ ] Justify Content, Align Content and Place Content
 - [ ] Justify Items, Align Items and Place Items
