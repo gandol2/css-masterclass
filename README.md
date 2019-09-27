@@ -3,10 +3,10 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 
 ### CSS Flex
 
-- [ ] CSS Flex Basics
-- [ ] Main Axis and Cross Axis
-- [ ] Flex Direction
-- [ ] Flex Wrap
+- [x] CSS Flex Basics [[CSS display]](https://developer.mozilla.org/ko/docs/Web/CSS/display)
+- [x] Main Axis and Cross Axis
+- [x] Flex Direction
+- [x] Flex Wrap
 - [ ] Align Self
 
 ### CSS Grid
