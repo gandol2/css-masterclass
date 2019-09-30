@@ -1,4 +1,5 @@
 # css-masterclass
+
 CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 
 ### CSS Flex
@@ -14,7 +15,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 - [x] CSS Grid Basics ( Row, columns and gaps)
 - [x] Auto columns, auto rows
 - [x] Template Areas
-- [x] *fr* unit, *rex] minmax, max-content, min-content
+- [x] _fr_ unit, \*rex] minmax, max-content, min-content
 - [x] auto-fill, auto-fit
 - [x] Justify Content, Align Content and Place Content
 - [x] Justify Items, Align Items and Place Items
@@ -58,12 +59,21 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext) form NomardCoder
 <img src="https://i.pinimg.com/564x/a4/0d/ba/a40dba0269d7de0120496ec830d6b25a.jpg" width="300px" />
 <img src="https://cdn.dribbble.com/users/102267/screenshots/4275407/afisha_by_radiusss.jpg" width="300px" />
 
-
 ### 참고 사이트
- - [색상코드](https://flatuicolors.com/)
- - [CSS 연습](https://codepip.com/)
- - [CSS 연습(Grid))](https://cssgridgarden.com/#ko)
- - [PARCEL](https://parceljs.org/)
- - [PostCSS](https://postcss.org/)
- - [preset-env](https://preset-env.cssdb.org/)
- - [grid-kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss)
+
+- [색상코드](https://flatuicolors.com/)
+- [CSS 연습](https://codepip.com/)
+- [CSS 연습(Grid))](https://cssgridgarden.com/#ko)
+- [PARCEL](https://parceljs.org/)
+- [PostCSS](https://postcss.org/)
+- [preset-env](https://preset-env.cssdb.org/)
+- [grid-kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss)
+- [codesandbox](https://codesandbox.io)
+
+### 결과물
+
+## 01
+
+[CodeSandbox](https://codesandbox.io/s/cssprojects01-8iuh5?fontsize=14)
+<br/>
+<img src="./Projects/01/Capture.png" width="500px" />
